@@ -18,7 +18,7 @@ from freegames import floor, vector
 state = {'score': 0}
 path = Turtle(visible=False)
 writer = Turtle(visible=False)
-aim = vector(5, 0)
+aim = vector(5,0) 
 pacman = vector(-40, -80)
 ghosts = [
     [vector(-180, 160), vector(5, 0)],
@@ -148,7 +148,7 @@ def move():
         if abs(pacman - point) < 20:
             return
 
-    ontimer(move, 100)
+    ontimer(move,40) #Make the pacman and ghosts faster
 
 def change(x, y):
     "Change pacman aim if valid."
