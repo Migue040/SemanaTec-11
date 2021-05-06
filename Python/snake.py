@@ -61,9 +61,9 @@ setup(420, 420, 370, 0)
 hideturtle()
 tracer(False)
 listen()
-onkey(lambda: change(10, 0), 'Right')
-onkey(lambda: change(-10, 0), 'Left')
-onkey(lambda: change(0, 10), 'Up')
-onkey(lambda: change(0, -10), 'Down')
+onkey(lambda: change(10, 0), 'D') #Change the arrow key right to letter D
+onkey(lambda: change(-10, 0), 'A') #Change the arrow key left to letter A
+onkey(lambda: change(0, 10), 'W') #Change the arrow key up to letter W
+onkey(lambda: change(0, -10), 'S') #Change the arrow key down to letter S
 move()
 done()
