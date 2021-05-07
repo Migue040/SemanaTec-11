@@ -3,7 +3,9 @@
 
 
 
-Pimera edición Miguel Vázquez
+Primera edición Miguel Vázquez
+
+Segunda edición Raúl Ávila
 
 Changes 
 
@@ -51,7 +53,7 @@ def move():
     for body in snake:
         square(body.x, body.y, 9, 'yellow')
 
-    square(food.x, food.y, 9, 'green')
+    square(food.x, food.y, 9,'blue')
     update()
     ontimer(move, 100)
 
