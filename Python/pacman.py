@@ -1,17 +1,17 @@
 """Pacman, classic arcade game.
-#Yarezzi Garcia
+
 
 Primera edición Miguel Vázquez
 
 Segunda edición Raúl Ávila 
 
-Exercises
+Tercera edición Yarezzi Garcia 
 
-1. Change the board.
-2. Change the number of ghosts.
-3. Change where pacman starts.
-4. Make the ghosts faster/slower.
-5. Make the ghosts smarter.
+
+Changes 
+Change color of board
+Change color of ghosts
+Make the pacman and ghosts faster
 
 """
 
