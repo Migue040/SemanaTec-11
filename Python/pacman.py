@@ -1,5 +1,7 @@
 """Pacman, classic arcade game.
 
+Pirmera edición Miguel Vázquez
+
 Exercises
 
 1. Change the board.
