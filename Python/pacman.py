@@ -22,13 +22,10 @@ from freegames import floor, vector
 state = {'score': 0}
 path = Turtle(visible=False)
 writer = Turtle(visible=False)
-<<<<<<< HEAD
-aim = vector(5,0) 
-pacman = vector(-40, -80)
-=======
+
 aim = vector(5, 0)
 pacman = vector(-20, -40)
->>>>>>> Raul
+
 ghosts = [
     [vector(-180, 160), vector(5, 0)],
     [vector(-180, -160), vector(0, 5)],
