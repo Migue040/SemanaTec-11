@@ -1,5 +1,7 @@
 """Snake, classic arcade game.
 
+Pimera edición Miguel Vázquez
+
 Exercises
 
 1. How do you make the snake faster or slower?
