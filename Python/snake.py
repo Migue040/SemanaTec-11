@@ -1,11 +1,17 @@
 """Snake, classic arcade game.
+
+Some changes were made to this game:
+1. changed the snake color from black to yellow
+2. changed the fruit color
+3. changed the keys to move the snake to w a s d.
+
+
+changes by:
+
 #Yarezzi Garcia
-
-
-
 Primera edición Miguel Vázquez
-
 Segunda edición Raúl Ávila
+
 
 Exercises
 
