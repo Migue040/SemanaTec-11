@@ -1,5 +1,4 @@
 """Snake, classic arcade game.
-#Yarezzi Garcia
 
 
 
@@ -7,8 +6,12 @@ Primera edición Miguel Vázquez
 
 Segunda edición Raúl Ávila
 
-Changes 
+Tercera edicion Yarezzi Garcia
 
+Changes 
+- Arrow keys to respond with "A,S,D,W"
+- Color of food
+- Make the snake faster
 
 """
 
