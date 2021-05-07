@@ -1,6 +1,8 @@
 """Pacman, classic arcade game.
 #Yarezzi Garcia
 
+Pirmera edición Miguel Vázquez
+
 Exercises
 
 1. Change the board.
@@ -140,7 +142,7 @@ def move():
 
         up()
         goto(point.x + 10, point.y + 10)
-        dot(20, 'red')
+        dot(20, 'cyan')
 
     update()
 

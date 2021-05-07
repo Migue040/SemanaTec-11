@@ -3,6 +3,8 @@
 
 
 
+Pimera edición Miguel Vázquez
+
 Exercises
 
 1. How do you make the snake faster or slower?
@@ -51,7 +53,7 @@ def move():
     clear()
 
     for body in snake:
-        square(body.x, body.y, 9, 'black')
+        square(body.x, body.y, 9, 'yellow')
 
     square(food.x, food.y, 9, 'green')
     update()
