@@ -50,7 +50,7 @@ def move():
     clear()
 
     for body in snake:
-        square(body.x, body.y, 9, 'black')
+        square(body.x, body.y, 9, 'yellow')
 
     square(food.x, food.y, 9, 'green')
     update()
